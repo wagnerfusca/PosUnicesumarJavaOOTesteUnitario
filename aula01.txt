@@ -1,0 +1,43 @@
+roteiro aula:
+* explicar o que será visto
+* coletar o que os alunos querem ver
+* passar por conceitos da orientação a objetos
+* abstração - exercicio do recibo
+* object calisthenics
+* principios de design de software
+* SOLID
+* Inspeção e adaptação de código
+* siglas do Java
+* TDD e Junit
+
+Object Calisthenics
+* https://pt.slideshare.net/tiofusca/tips-to-improve-your-code-review
+* Um nível de indentação por método;
+* Não use ELSE;
+* Envolva seus tipos primitivos;
+* Envolva suas collections em classes;
+* Uma chamada de método por linha;
+* Não abrevie;
+* Mantenha as classes pequenas;
+* Não tenha classes com mais de duas variáveis de instancia;
+* Sem getters e setters;
+
+Inspeção e adaptação
+* https://www.sonarlint.org/
+
+Links de OO
+*http://blog.caelum.com.br/nao-aprender-oo-getters-e-setters/
+* http://blog.caelum.com.br/como-nao-aprender-orientacao-a-objetos-o-excesso-de-ifs/
+
+TDD - sempre inspecionando
+*http://fitnesse.org/FrontPage
+
+Exercicio de integer
+
+1 - FUM que some dois numeros
+2 - FUM que subtraia dois numeros
+3 - FUM que multiplique dois numeros
+4 - FUM que divida dois numeros
+5 - FUM que diga se o numero é par
+6 - FUM que receba dois numeros e diga qual é o maior
+7 - FUM que a partir de um valor inicial, mostre os números de impares até 100. 
